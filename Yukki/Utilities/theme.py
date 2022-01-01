@@ -4,13 +4,10 @@ from Yukki.Database import get_theme
 
 themes = [
     "blue",
-    "black",
     "red",
     "green",
-    "grey",
     "orange",
     "pink",
-    "yellow",
 ]
 
 
